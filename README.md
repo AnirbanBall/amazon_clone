@@ -1,5 +1,5 @@
 
-# Amazon - Clone using ReactJs
+# Amzon 
 
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
